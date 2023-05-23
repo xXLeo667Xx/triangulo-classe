@@ -24,7 +24,7 @@ namespace couse
 
 
         //programa principal
-        public static void main(string[] args)
+        public static void Main(string[] args)
         {
             //variaveis double para calculos grandes, e funcoes para facilitar o programa
             Triangulo x = LerTriangulo("X");
